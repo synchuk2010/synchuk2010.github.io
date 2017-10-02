@@ -1,0 +1,4 @@
+AuthType Basic   
+AuthName admin 
+AuthUserFile /home/vol12_5/byethost4.com/b4_19177335/sinchuk.pp.ua/htdocs/otpravka/.htpasswd
+require valid-user
